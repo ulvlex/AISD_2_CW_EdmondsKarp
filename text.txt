@@ -1,0 +1,8 @@
+SO3
+SP3
+OQ3
+OP2
+PR2
+QR4
+QT2
+RT3
